@@ -1,0 +1,1 @@
+Estudos iniciais de Python.
